@@ -21,6 +21,7 @@ Open the App:
 Simply open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 Using the Application:
+
 1.Add Transaction
 Fill out the date, description, amount, and category.
 Click "Add Transaction".
