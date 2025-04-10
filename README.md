@@ -32,8 +32,7 @@ Edit / Delete
 Click "Edit" to load the transaction into the form for editing.
 Click "Delete" to remove a transaction permanently.
 
-3. View Summary
-The summary section shows:
+3. View Summary:The summary section shows:
 Total Income
 Total Expenses
 Net Balance
